@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development and building my blog.
 - 🎓 &nbsp; Studying CS in Gzhu.
-- 🌱 &nbsp; Enthusiast in prompt engineering and virtual reality.
+- 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development and prompt Eengineering.
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
 
 <h3>🛠 Tech Stack</h3>
