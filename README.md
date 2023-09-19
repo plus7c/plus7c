@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development and building my blog.
-- 🎓 &nbsp; Studying CS in Gzhu.
-- 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development and prompt Eengineering.
+- 🎓 &nbsp; a CS junior student in Gzhu.
+- 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
 
 <h3>🛠 Tech Stack</h3>
