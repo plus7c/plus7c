@@ -4,9 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development and building my blog.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and technology.
-- 💼 &nbsp; Front-end web developer and Flutter developer .
+- 🎓 &nbsp; Studying CS in Gzhu.
 - 🌱 &nbsp; Enthusiast in prompt engineering and virtual reality.
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
 
@@ -14,7 +12,6 @@
 
 - 💻 &nbsp; JavaScript | Dart | Python | C++  
 - 🌐 &nbsp; React.js | Vue.js | Flutter 
-- 🛢 &nbsp; Node.js | mongodb | mySql
 - 🔧 &nbsp; Visual Studio code | Android Studio | PyCharm | Git | Github Copilot
 
 
