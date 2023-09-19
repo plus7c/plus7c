@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development and building my blog.
+- 🔭 &nbsp; I’m currently learning Flutter Application Development and building my blog with next.js.
 - 🎓 &nbsp; a CS junior student in Gzhu.
 - 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
