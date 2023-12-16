@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Nuxt.js Application Development and building my blog with next.js.
+- 🔭 &nbsp; I’m currently learning Next.js v13 and building my blog with it.
 - 🎓 &nbsp; a CS junior student in Gzhu.
 - 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
