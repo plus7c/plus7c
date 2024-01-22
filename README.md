@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Next.js v13 and building my blog with it.
+- 🔭 &nbsp; I’m currently learning TypeScript and having an internship in a technology company in Shenzhen.
 - 🎓 &nbsp; a CS junior student in Gzhu.
 - 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development
 - 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
