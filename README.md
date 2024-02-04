@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m having an internship in a tech company in Shenzhen.
+- 🔭 &nbsp; I’m having an internship in Lalamove.
 - 🎓 &nbsp; a CS junior student in Gzhu.
 - 🌱 &nbsp; Enthusiast in cool and fun tech.
 
