@@ -3,17 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TypeScript and having an internship in a technology company in Shenzhen.
+- 🔭 &nbsp; I’m having an internship in a tech company in Shenzhen.
 - 🎓 &nbsp; a CS junior student in Gzhu.
-- 🌱 &nbsp; Enthusiast in Comprehensive Front-End Development
-- 🚴‍♀️ &nbsp; Playing tennis and cycling as hobbies
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; JavaScript | Dart | Python | C++  
-- 🌐 &nbsp; React.js | Vue.js | Flutter 
-- 🔧 &nbsp; Visual Studio code | Android Studio | PyCharm | Git | Github Copilot
-
+- 🌱 &nbsp; Enthusiast in cool and fun tech.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
