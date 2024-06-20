@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🦘 &nbsp; a FE Intern in meituan.
-- 🎓 &nbsp; a CS junior student in Gzhu.
-- 🌱 &nbsp; Enthusiast in Front End.
+- 🎓 &nbsp; a CS junior student in Guangzhou.
+- 🌱 &nbsp; Enthusiast in tennis and basketball.
 
 
 <h3> 🤝🏻 Connect with Me </h3>
