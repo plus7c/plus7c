@@ -1,4 +1,4 @@
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>  About Me </h3>
 
 - 🎓 &nbsp; a CS senior student in Guangzhou Univercity
 - 💻 &nbsp; Once worked in Meituan and Lalamove as an intern
