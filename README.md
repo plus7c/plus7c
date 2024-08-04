@@ -1,5 +1,3 @@
-<h2> Hey there! I'm Zplus7. </h2>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🦘 &nbsp; a FE Intern in meituan.
